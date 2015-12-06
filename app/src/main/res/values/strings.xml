@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Demo application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="welcome_mess">Hello this is an application for demonstration it includes the following:\n
+    1)Adding Actiity\n
+    2)Linear and relative layouts\n
+    3)Activity lifecycle\n
+    4)Adding controlls and programming them\n
+    5)starting activities\n
+    6)shared reference\n
+    7)Local storage\n
+    8)Phone capabilities(cameras,bluetooth,GPS,sensors,alarms)</string>
+    <string name="title_activity_starting">StartingActivity</string>
+    <string name="title_activity_for_result">forResultActivity</string>
+    <string name="title_activity_send_email">SendEmailActivity</string>
+    <string name="title_activity_manipulation_ui">ManipulationUIActivity</string>
+    <string name="title_activity_seeting">SeetingActivity</string>
+    <string name="title_activity_profil">ProfilActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_gps">GPSActivity</string>
+    <string name="title_activity_bleutooth">BleutoothActivity</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_sensor">SensorActivity</string>
+</resources>
